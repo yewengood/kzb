@@ -10,6 +10,7 @@ timestart = datetime.now()
 # 报时  '',
 #print(f"time: {datetime.now().strftime("%Y%m%d_%H_%M_%S")}")
 
+rm -rf others_output.txt
 #读取文本方法
 def read_txt_to_array(file_name):
     try:
