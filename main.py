@@ -10,7 +10,18 @@ timestart = datetime.now()
 # 报时  '',
 #print(f"time: {datetime.now().strftime("%Y%m%d_%H_%M_%S")}")
 
-rm -rf others_output.txt
+import os
+ 
+# 文件路径
+file_path = 'others_output.txt'
+ 
+# 检查文件是否存在
+if os.path.isfile(file_path):
+    os.remove(file_path)
+    print(f"文件 {file_path} 已删除。")
+else:
+    print(f"文件 {file_path} 不存在。")
+
 #读取文本方法
 def read_txt_to_array(file_name):
     try:
