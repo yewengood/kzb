@@ -25,7 +25,7 @@ jobs:
         bash ./zb.sh
     - name: Update Results
       run: |
-        cd $GITHUB_WORKSPACE/speedtest
+        cd $GITHUB_WORKSPACE
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
