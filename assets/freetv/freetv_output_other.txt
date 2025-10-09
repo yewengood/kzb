@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251008-23-53-18,url
+20251009-23-53-31,url
 
 
 freetv_other,#genre#
@@ -50,6 +50,7 @@ cgtn,https://stream1.freetv.fun/cgtn-6.m3u8
 东方卫视高清,https://stream1.freetv.fun/dong-fang-wei-shi-gao-qing-10.ctv
 东方影视,https://stream1.freetv.fun/dong-fang-ying-shi-12.ctv
 东方影视,https://stream1.freetv.fun/dong-fang-ying-shi-4.ctv
+东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-5.m3u8
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-1.ctv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-11.ctv
@@ -123,6 +124,8 @@ cgtn,https://stream1.freetv.fun/cgtn-6.m3u8
 平湖新闻综合,https://stream1.freetv.fun/ping-hu-xin-wen-zong-he-3.m3u8
 平湖新闻综合,https://stream1.freetv.fun/ping-hu-xin-wen-zong-he-5.m3u8
 平舆新闻综合频道,https://stream1.freetv.fun/ping-yu-xin-wen-zong-he-1.m3u8
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-23.m3u8
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-29.ctv
 广东少儿,https://stream1.freetv.fun/yan-dong-shao-er-15.ctv
 广东少儿,https://stream1.freetv.fun/yan-dong-shao-er-7.m3u8
 广东少儿,https://stream1.freetv.fun/yan-dong-shao-er-9.m3u8
@@ -200,7 +203,6 @@ cgtn,https://stream1.freetv.fun/cgtn-6.m3u8
 杭州综合,https://stream1.freetv.fun/hang-zhou-zong-he-4.m3u8
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-2.m3u8
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-3.m3u8
-民視新聞,https://stream1.freetv.fun/min-shi-xin-wen-19.m3u8
 民视,https://stream1.freetv.fun/min-shi-8.ctv
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视,rtmp://f13h.mine.nu:1935/sat/tv051
@@ -258,7 +260,6 @@ cgtn,https://stream1.freetv.fun/cgtn-6.m3u8
 电影,https://stream1.freetv.fun/dian-ying-107.m3u8
 电影,https://stream1.freetv.fun/dian-ying-115.m3u8
 电影,https://stream1.freetv.fun/dian-ying-28.m3u8
-电影,https://stream1.freetv.fun/dian-ying-40.m3u8
 电影,https://stream1.freetv.fun/dian-ying-44.ctv
 电影,https://stream1.freetv.fun/dian-ying-52.m3u8
 电影,https://stream1.freetv.fun/dian-ying-69.m3u8
